@@ -19,6 +19,20 @@ Welcome to the **Cricket Match Info App**! This Flutter application provides det
 - **Match Information**: View details of IPL 2020 matches, including scores and player statistics. 📈
 - **User-Friendly Interface**: Simple navigation across four pages for easy access to match data. 📱
 - **Data Fetching**: Utilizes APIs to retrieve live cricket data. 🔄
+## Home Page
+![Home Page](images/home_page.png)
+
+## Main Page
+![Main Page](images/main_page.png)
+
+## Fixtures
+![Fixtures](images/fixtures.png)
+
+## Match Details
+![Match Details](images/match_details.png)
+![Match Details (2)](images/match_details(2).png)
+![Additional Page 1](images/match_details(3).png)
+![Additional Page 2](images/match_details(4).png)
 
 ## Technologies Used 🛠️
 
