@@ -1,4 +1,4 @@
-# Cricket Match Info App - IPL 2020 🏏🎉
+# Cricket Match Info App - IPL 2020
 
 ```markdown
 
