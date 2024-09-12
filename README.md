@@ -1,6 +1,6 @@
+# Cricket Match Info App - IPL 2020 🏏🎉
 
 ```markdown
-# Cricket Match Info App - IPL 2020 🏏🎉
 
 Welcome to the **Cricket Match Info App**! This Flutter application provides detailed information about the IPL 2020 tournament, showcasing match data in a user-friendly interface. Designed to enhance understanding of API integration, this app fetches and displays cricket match information efficiently. 📊✨
 
