@@ -79,6 +79,7 @@ flutter pub get
 ## Usage 🚀
 
 1. Launch the app on your device or emulator. 📲
+
 2. Navigate through the four pages to explore match information, player stats, and more. 🏆
 
 ## Commands 📝
