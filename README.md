@@ -26,7 +26,8 @@ Welcome to the **Cricket Match Info App**! This Flutter application provides det
 ![Main Page](images/main_page.png)
 
 ## Fixtures
-![Fixtures](images/fixtures.png)
+![Fixtures](images/fixtures.png)![Home_page](https://github.com/user-attachments/assets/ea281d81-2f8a-4386-bbde-56edb28fb651)
+
 
 ## Match Details
 ![Match Details](images/match_details.png)
