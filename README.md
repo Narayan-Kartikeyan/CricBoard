@@ -19,21 +19,22 @@ Welcome to the **Cricket Match Info App**! This Flutter application provides det
 - **Match Information**: View details of IPL 2020 matches, including scores and player statistics. 📈
 - **User-Friendly Interface**: Simple navigation across four pages for easy access to match data. 📱
 - **Data Fetching**: Utilizes APIs to retrieve live cricket data. 🔄
+
 ## Home Page
-![Home Page](images/home_page.png)
+![Home_page](https://github.com/user-attachments/assets/ea281d81-2f8a-4386-bbde-56edb28fb651)
 
 ## Main Page
-![Main Page](images/main_page.png)
+![main_page](https://github.com/user-attachments/assets/c9d4d48e-525b-4c45-8585-9048827cd3e9)
 
 ## Fixtures
-![Fixtures](images/fixtures.png)![Home_page](https://github.com/user-attachments/assets/ea281d81-2f8a-4386-bbde-56edb28fb651)
-
+![fixtures](https://github.com/user-attachments/assets/98224aeb-375b-4d73-aa9b-ba276bad130c)
 
 ## Match Details
-![Match Details](images/match_details.png)
-![Match Details (2)](images/match_details(2).png)
-![Additional Page 1](images/match_details(3).png)
-![Additional Page 2](images/match_details(4).png)
+![match_details](https://github.com/user-attachments/assets/5a054d1f-ea23-41d2-9eea-a453061034e6)
+![match_details (2)](https://github.com/user-attachments/assets/57ee7c11-01bc-40f9-8146-3ae3b1bcc465)
+![match_details (3)](https://github.com/user-attachments/assets/7bb5a04c-be7e-4ebe-b154-584bf0fb4be2)
+![match_details (4)](https://github.com/user-attachments/assets/24109a89-c1e2-4e68-b906-c35760003573)
+
 
 ## Technologies Used 🛠️
 
